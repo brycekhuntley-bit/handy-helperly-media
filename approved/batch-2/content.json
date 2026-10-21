@@ -1,0 +1,420 @@
+{
+ "profile": {
+  "company_description": "Handy Helperly is one point of contact for home services. We coordinate repairs, property preparation, cleaning, junk removal, packing, moving, storage, and new-home setup for homeowners and Realtors before, during, and after a move. We also take on single home-service projects, from one repair to a few rooms of painting. Serving Greater St. Louis and St. Charles County. Call (636) 459-1530 or request service at handyhelperly.com.",
+  "ig_name_field": "Handy Helperly | Home Services",
+  "ig_bio": "One contact for home services before, during & after a move, or one project.\nRepairs · Cleaning · Junk removal · Packing\nSt. Louis & St. Charles Co.",
+  "ig_link": "https://handyhelperly.com/request-service?utm_source=instagram&utm_medium=social&utm_campaign=bio",
+  "fb_intro": "One contact for the services you need before, during, and after a move, or for a single project.",
+  "fb_description": "Handy Helperly coordinates repairs, property prep, cleaning, junk removal, packing, moving, storage, and new-home setup through one point of contact. Homeowners and Realtors in Greater St. Louis & St. Charles County. Single projects welcome.",
+  "fb_category": "Home Service (secondary: Handyman, Moving & Storage Service)",
+  "fb_button": "Book Now or Learn More → https://handyhelperly.com/request-service?utm_source=facebook&utm_medium=social&utm_campaign=page-button",
+  "contact": "handyhelperly.com · contact@handyhelperly.com · (636) 459-1530"
+ },
+ "posts": [
+  {
+   "id": "F14",
+   "kind": "feed",
+   "date": "2026-10-27",
+   "time": "1:00 PM",
+   "label": "Move-out · Old house",
+   "layout": "situation",
+   "eyebrow": "Example situation",
+   "headline": "Moving out Friday?",
+   "situation": "The old house still needs patching, a deep clean, and a haul-out of what didn't make the truck.",
+   "services": [
+    "Patch & repair",
+    "Haul-out",
+    "Move-out cleaning"
+   ],
+   "body": "Send us the list and your move-out date. We coordinate the jobs in order.",
+   "cta": "Request service at handyhelperly.com",
+   "illustrative": true,
+   "ig_caption": "Moving out Friday?\n\nHere's a common situation: the old house still needs patching, a deep clean, and a haul-out of everything that didn't make the truck.\n\nSend us the list and your move-out date. We'll send an estimate and coordinate the jobs in the right order, with one person keeping you updated.\n\nRequest service through the link in our bio.\n\n#StLouis #StCharlesCounty #MovingDay #MovingHelp #MoveOut\n\n(Example scenario for illustration, not a specific completed job.)",
+   "fb_caption": "Moving out Friday?\n\nHere's a common situation: the old house still needs patching, a deep clean, and a haul-out of everything that didn't make the truck.\n\nSend us the list and your move-out date. We'll send an estimate and coordinate the jobs in the right order, with one person keeping you updated.\n\nRequest service: https://handyhelperly.com/request-service?utm_source=facebook&utm_medium=social&utm_campaign=hh-batch2&utm_content=F14\n\n(Example scenario for illustration, not a specific completed job.)"
+  },
+  {
+   "id": "F15",
+   "kind": "feed",
+   "date": "2026-10-29",
+   "time": "1:00 PM",
+   "label": "Checklist · New home",
+   "layout": "checklist",
+   "eyebrow": "Save this checklist",
+   "headline": "New home, first week",
+   "checklist": [
+    "Assemble beds and key furniture",
+    "Mount the TV",
+    "Hang shelves, curtains, and art",
+    "Break down boxes and clear the packing material",
+    "Write down small repairs you spot on day one",
+    "Send us the list for what you'd rather not do"
+   ],
+   "cta": "Want help? handyhelperly.com",
+   "illustrative": false,
+   "ig_caption": "New home, first week. Save this one.\n\n☐ Assemble beds and key furniture\n☐ Mount the TV\n☐ Hang shelves, curtains, and art\n☐ Break down boxes and clear the packing material\n☐ Write down small repairs you spot on day one\n☐ Send us the list for what you'd rather not do\n\nWe help after the move too: furniture assembly, mounting and hanging, box and debris removal, and minor repairs.\n\nRequest service through the link in our bio.\n\n#NewHome #JustMoved #StLouis #StCharlesCounty #HomeSetup",
+   "fb_caption": "New home, first week. Save this one.\n\n☐ Assemble beds and key furniture\n☐ Mount the TV\n☐ Hang shelves, curtains, and art\n☐ Break down boxes and clear the packing material\n☐ Write down small repairs you spot on day one\n☐ Send us the list for what you'd rather not do\n\nWe help after the move too: furniture assembly, mounting and hanging, box and debris removal, and minor repairs.\n\nRequest service: https://handyhelperly.com/request-service?utm_source=facebook&utm_medium=social&utm_campaign=hh-batch2&utm_content=F15"
+  },
+  {
+   "id": "F16",
+   "kind": "feed",
+   "date": "2026-10-31",
+   "time": "10:00 AM",
+   "label": "FAQ · Not moving",
+   "layout": "faq",
+   "eyebrow": "FAQ",
+   "headline": "Do I have to be moving to hire you?",
+   "answer": "No. Single projects are welcome: a repair, a TV to mount, a few rooms of paint, a garage cleanout. Tell us what you need and we'll send an estimate.",
+   "cta": "Call (636) 459-1530",
+   "illustrative": false,
+   "ig_caption": "FAQ: Do I have to be moving to hire you?\n\nNo. Single projects are welcome: a repair, a TV to mount, a few rooms of paint, a garage cleanout. Tell us what you need and we'll send an estimate. Nothing starts until you approve it.\n\nCall (636) 459-1530 or request service through the link in our bio.\n\n#StLouis #StCharlesCounty #Handyman #HomeRepair #HomeServices",
+   "fb_caption": "FAQ: Do I have to be moving to hire you?\n\nNo. Single projects are welcome: a repair, a TV to mount, a few rooms of paint, a garage cleanout. Tell us what you need and we'll send an estimate. Nothing starts until you approve it.\n\nCall (636) 459-1530 or request service: https://handyhelperly.com/request-service?utm_source=facebook&utm_medium=social&utm_campaign=hh-batch2&utm_content=F16"
+  },
+  {
+   "id": "F17",
+   "kind": "feed",
+   "date": "2026-11-03",
+   "time": "1:00 PM",
+   "label": "Homeowners · One contact",
+   "layout": "compare",
+   "eyebrow": "Homeowners",
+   "headline": "One contact instead of three vendors",
+   "left": {
+    "title": "Doing it yourself",
+    "items": [
+     "Find a painter",
+     "Find a junk hauler",
+     "Find a cleaner",
+     "Line up three schedules",
+     "Pass messages between them"
+    ]
+   },
+   "right": {
+    "title": "With Handy Helperly",
+    "items": [
+     "Tell us the list",
+     "We estimate and coordinate",
+     "One contact for updates"
+    ]
+   },
+   "cta": "Request service at handyhelperly.com",
+   "illustrative": false,
+   "ig_caption": "One contact instead of three vendors.\n\nGetting a house ready, moving, or setting up a new place usually means finding a painter, a junk hauler, and a cleaner, then lining up three schedules.\n\nWith Handy Helperly you tell us the list. We send an estimate, coordinate the work, and keep you updated. Some work we do directly; some we coordinate with qualified local providers matched to the job.\n\nRequest service through the link in our bio.\n\n#StLouis #StCharlesCounty #HomeServices #HomeRepair #MovingHelp",
+   "fb_caption": "One contact instead of three vendors.\n\nGetting a house ready, moving, or setting up a new place usually means finding a painter, a junk hauler, and a cleaner, then lining up three schedules.\n\nWith Handy Helperly you tell us the list. We send an estimate, coordinate the work, and keep you updated. Some work we do directly; some we coordinate with qualified local providers matched to the job.\n\nRequest service: https://handyhelperly.com/request-service?utm_source=facebook&utm_medium=social&utm_campaign=hh-batch2&utm_content=F17"
+  },
+  {
+   "id": "F18",
+   "kind": "feed",
+   "date": "2026-11-05",
+   "time": "1:00 PM",
+   "label": "Realtor · Photo day",
+   "layout": "situation",
+   "eyebrow": "For Realtors",
+   "headline": "Photos on Friday?",
+   "situation": "The listing photos are booked, but the seller still has scuffed walls and a cluttered garage.",
+   "services": [
+    "Touch-up paint",
+    "Garage haul-out",
+    "Cleaning"
+   ],
+   "body": "Send one referral. We contact your client and coordinate the work in order.",
+   "cta": "Refer a client at handyhelperly.com",
+   "illustrative": true,
+   "ig_caption": "Realtors: photos on Friday?\n\nHere's a common situation: the listing photos are booked, but the seller still has scuffed walls and a cluttered garage.\n\nSend us one referral. We contact your client, send an estimate, coordinate the work in order, and keep you updated.\n\nRefer a client through the Realtor Partners page on our website (link in bio, then Partners).\n\n#STLRealEstate #StLouisRealtor #StCharlesCounty #ListingPrep #RealtorLife\n\n(Example scenario for illustration, not a specific completed job.)",
+   "fb_caption": "Realtors: photos on Friday?\n\nHere's a common situation: the listing photos are booked, but the seller still has scuffed walls and a cluttered garage.\n\nSend us one referral. We contact your client, send an estimate, coordinate the work in order, and keep you updated.\n\nRefer a client: https://handyhelperly.com/realtor-partners?utm_source=facebook&utm_medium=social&utm_campaign=hh-batch2&utm_content=F18\n\n(Example scenario for illustration, not a specific completed job.)"
+  },
+  {
+   "id": "F19",
+   "kind": "feed",
+   "date": "2026-11-07",
+   "time": "10:00 AM",
+   "label": "FAQ · Service area",
+   "layout": "faq",
+   "eyebrow": "FAQ",
+   "headline": "Where do you work?",
+   "answer": "We serve Greater St. Louis and St. Charles County. Not sure if your address is in range? Call or send the request form and we'll let you know.",
+   "cta": "Call (636) 459-1530",
+   "illustrative": false,
+   "ig_caption": "FAQ: Where do you work?\n\nWe serve Greater St. Louis and St. Charles County. Not sure if your address is in range? Call (636) 459-1530 or send the request form and we'll let you know.\n\nRequest service through the link in our bio.\n\n#StLouis #StCharlesCounty #HomeServices #Handyman #MovingHelp",
+   "fb_caption": "FAQ: Where do you work?\n\nWe serve Greater St. Louis and St. Charles County. Not sure if your address is in range? Call (636) 459-1530 or send the request form and we'll let you know.\n\nRequest service: https://handyhelperly.com/request-service?utm_source=facebook&utm_medium=social&utm_campaign=hh-batch2&utm_content=F19"
+  },
+  {
+   "id": "F20",
+   "kind": "feed",
+   "date": "2026-11-10",
+   "time": "1:00 PM",
+   "label": "Packing tips",
+   "layout": "steps",
+   "eyebrow": "Packing tips",
+   "headline": "Packing without the panic",
+   "steps": [
+    [
+     "Start with what you don't use daily",
+     "Seasonal items, books, and decor go first."
+    ],
+    [
+     "Label boxes by room",
+     "Not by contents."
+    ],
+    [
+     "Pack an open-first box",
+     "Chargers, sheets, basic tools, toilet paper."
+    ],
+    [
+     "Hand off what you'd rather not do",
+     "We coordinate packing help."
+    ]
+   ],
+   "cta": "Ask about packing: handyhelperly.com",
+   "illustrative": false,
+   "ig_caption": "Packing without the panic.\n\n1. Start with what you don't use daily. Seasonal items, books, and decor go first.\n2. Label boxes by room, not by contents.\n3. Pack an open-first box: chargers, sheets, basic tools, toilet paper.\n4. Hand off what you'd rather not do. We coordinate packing help.\n\nAsk about packing through the link in our bio.\n\n#MovingTips #Packing #StLouis #StCharlesCounty #MovingHelp",
+   "fb_caption": "Packing without the panic.\n\n1. Start with what you don't use daily. Seasonal items, books, and decor go first.\n2. Label boxes by room, not by contents.\n3. Pack an open-first box: chargers, sheets, basic tools, toilet paper.\n4. Hand off what you'd rather not do. We coordinate packing help.\n\nAsk about packing: https://handyhelperly.com/request-service?utm_source=facebook&utm_medium=social&utm_campaign=hh-batch2&utm_content=F20"
+  },
+  {
+   "id": "F21",
+   "kind": "feed",
+   "date": "2026-11-12",
+   "time": "1:00 PM",
+   "label": "Checklist · Fall",
+   "layout": "checklist",
+   "eyebrow": "Save this checklist",
+   "headline": "Fall to-do list for your home",
+   "checklist": [
+    "Fix sticking doors and loose hardware",
+    "Patch and touch up paint",
+    "Clear the garage before winter",
+    "Haul away what you don't need",
+    "Deep clean the kitchen and bathrooms",
+    "Mount or hang what's been waiting"
+   ],
+   "note": "One project or all of them: we coordinate.",
+   "cta": "Request service at handyhelperly.com",
+   "illustrative": false,
+   "ig_caption": "Fall to-do list for your home. Save this one.\n\n☐ Fix sticking doors and loose hardware\n☐ Patch and touch up paint\n☐ Clear the garage before winter\n☐ Haul away what you don't need\n☐ Deep clean the kitchen and bathrooms\n☐ Mount or hang what's been waiting\n\nOne project or all of them: send us the list and we'll send an estimate.\n\nRequest service through the link in our bio.\n\n#FallHomeProjects #StLouis #StCharlesCounty #HomeRepair #Handyman",
+   "fb_caption": "Fall to-do list for your home. Save this one.\n\n☐ Fix sticking doors and loose hardware\n☐ Patch and touch up paint\n☐ Clear the garage before winter\n☐ Haul away what you don't need\n☐ Deep clean the kitchen and bathrooms\n☐ Mount or hang what's been waiting\n\nOne project or all of them: send us the list and we'll send an estimate.\n\nRequest service: https://handyhelperly.com/request-service?utm_source=facebook&utm_medium=social&utm_campaign=hh-batch2&utm_content=F21"
+  },
+  {
+   "id": "F22",
+   "kind": "feed",
+   "date": "2026-11-14",
+   "time": "10:00 AM",
+   "label": "Realtor · Referral steps",
+   "layout": "steps",
+   "eyebrow": "For Realtors",
+   "headline": "A referral in four steps",
+   "steps": [
+    [
+     "Send the referral",
+     "Use the Realtor Partners page on our website."
+    ],
+    [
+     "We contact your client",
+     "About the work and the timing."
+    ],
+    [
+     "We estimate and coordinate",
+     "The jobs go in the right order."
+    ],
+    [
+     "We keep you updated",
+     "You stay focused on the transaction."
+    ]
+   ],
+   "cta": "Refer a client at handyhelperly.com",
+   "illustrative": false,
+   "ig_caption": "Realtors: a referral in four steps.\n\n1. Send the referral through the Realtor Partners page on our website.\n2. We contact your client about the work and the timing.\n3. We send an estimate and coordinate the jobs in the right order.\n4. We keep you updated, so you can stay focused on the transaction.\n\nLink in bio, then Partners.\n\n#STLRealEstate #StLouisRealtor #StCharlesCounty #RealtorLife #ListingPrep",
+   "fb_caption": "Realtors: a referral in four steps.\n\n1. Send the referral through the Realtor Partners page on our website.\n2. We contact your client about the work and the timing.\n3. We send an estimate and coordinate the jobs in the right order.\n4. We keep you updated, so you can stay focused on the transaction.\n\nRefer a client: https://handyhelperly.com/realtor-partners?utm_source=facebook&utm_medium=social&utm_campaign=hh-batch2&utm_content=F22"
+  },
+  {
+   "id": "F23",
+   "kind": "feed",
+   "date": "2026-11-17",
+   "time": "1:00 PM",
+   "label": "Downsizing",
+   "layout": "situation",
+   "eyebrow": "Example situation",
+   "headline": "Downsizing?",
+   "situation": "There's a lot to sort, donate, haul away, pack, and move, and not much time to do it.",
+   "services": [
+    "Cleanouts",
+    "Donation coordination",
+    "Packing",
+    "Moving coordination"
+   ],
+   "body": "Tell us where you're headed. We coordinate the pieces you want help with.",
+   "cta": "Call (636) 459-1530",
+   "illustrative": true,
+   "ig_caption": "Downsizing?\n\nHere's a common situation: there's a lot to sort, donate, haul away, pack, and move, and not much time to do it.\n\nTell us where you're headed. We send an estimate and coordinate the pieces you want help with: cleanouts, donation drop-offs, packing, and moving coordination.\n\nCall (636) 459-1530 or request service through the link in our bio.\n\n#Downsizing #StLouis #StCharlesCounty #MovingHelp #Cleanout\n\n(Example scenario for illustration, not a specific completed job.)",
+   "fb_caption": "Downsizing?\n\nHere's a common situation: there's a lot to sort, donate, haul away, pack, and move, and not much time to do it.\n\nTell us where you're headed. We send an estimate and coordinate the pieces you want help with: cleanouts, donation drop-offs, packing, and moving coordination.\n\nCall (636) 459-1530 or request service: https://handyhelperly.com/request-service?utm_source=facebook&utm_medium=social&utm_campaign=hh-batch2&utm_content=F23\n\n(Example scenario for illustration, not a specific completed job.)"
+  },
+  {
+   "id": "R01",
+   "kind": "feed",
+   "format": "reel",
+   "date": "2026-10-26",
+   "time": "5:30 PM",
+   "label": "Reel · How it works",
+   "review_file": "R01_preview.mp4",
+   "illustrative": false,
+   "ig_caption": "Moving or fixing up a home? Here's how working with Handy Helperly works: tell us what needs to happen, we send an estimate, we schedule the right people, and you hear from one person the whole way.\n\nLink in bio.\n\n#StLouis #StCharlesCounty #HomeServices #MovingHelp #HomeRepair",
+   "fb_caption": "Moving or fixing up a home? Here's how working with Handy Helperly works: tell us what needs to happen, we send an estimate, we schedule the right people, and you hear from one person the whole way.\n\nRequest service: https://handyhelperly.com/request-service?utm_source=facebook&utm_medium=social&utm_campaign=hh-batch2&utm_content=R01",
+   "tt_caption": "Four steps. One contact. Nothing starts until you approve it.\n\nhandyhelperly.com\n\n#StLouis #StCharlesCounty #HomeServices #fyp",
+   "yt_title": "How it works | Handy Helperly",
+   "yt_description": "Moving or fixing up a home? Here's how working with Handy Helperly works: tell us what needs to happen, we send an estimate, we schedule the right people, and you hear from one person the whole way.\n\nhandyhelperly.com · (636) 459-1530",
+   "full_file": "R01.mp4",
+   "poster": "R01_poster.png"
+  },
+  {
+   "id": "R02",
+   "kind": "feed",
+   "format": "reel",
+   "date": "2026-10-28",
+   "time": "5:30 PM",
+   "label": "Reel · Single projects",
+   "review_file": "R02_preview.mp4",
+   "illustrative": false,
+   "ig_caption": "Not moving? You can still call us. A door that won't latch, a TV to mount, two rooms to paint, fixtures to replace: tell us the project and we'll send an estimate.\n\nLink in bio.\n\n#StLouis #StCharlesCounty #Handyman #HomeRepair #HomeServices",
+   "fb_caption": "Not moving? You can still call us. A door that won't latch, a TV to mount, two rooms to paint, fixtures to replace: tell us the project and we'll send an estimate.\n\nRequest service: https://handyhelperly.com/request-service?utm_source=facebook&utm_medium=social&utm_campaign=hh-batch2&utm_content=R02",
+   "tt_caption": "Single projects are welcome. Door, TV mount, paint, fixtures: tell us the project.\n\nhandyhelperly.com\n\n#StLouis #StCharlesCounty #Handyman #fyp",
+   "yt_title": "Single projects | Handy Helperly",
+   "yt_description": "Not moving? You can still call us. A door that won't latch, a TV to mount, two rooms to paint, fixtures to replace: tell us the project and we'll send an estimate.\n\nhandyhelperly.com · (636) 459-1530",
+   "full_file": "R02.mp4",
+   "poster": "R02_poster.png"
+  },
+  {
+   "id": "R03",
+   "kind": "feed",
+   "format": "reel",
+   "date": "2026-10-30",
+   "time": "5:30 PM",
+   "label": "Reel · Realtors · One referral",
+   "review_file": "R03_preview.mp4",
+   "illustrative": false,
+   "ig_caption": "Realtors: one referral instead of five vendor calls. We contact your client, send an estimate, coordinate the work, and keep you updated.\n\nLink in bio.\n\n#STLRealEstate #StLouisRealtor #StCharlesCounty #RealtorLife #ListingPrep",
+   "fb_caption": "Realtors: one referral instead of five vendor calls. We contact your client, send an estimate, coordinate the work, and keep you updated.\n\nRefer a client: https://handyhelperly.com/realtor-partners?utm_source=facebook&utm_medium=social&utm_campaign=hh-batch2&utm_content=R03",
+   "tt_caption": "Realtors: one referral instead of five vendor calls.\n\nhandyhelperly.com\n\n#STLRealEstate #StLouisRealtor #StCharlesCounty #fyp",
+   "yt_title": "Realtors · One referral | Handy Helperly",
+   "yt_description": "Realtors: one referral instead of five vendor calls. We contact your client, send an estimate, coordinate the work, and keep you updated.\n\nhandyhelperly.com · (636) 459-1530",
+   "full_file": "R03.mp4",
+   "poster": "R03_poster.png"
+  },
+  {
+   "id": "R04",
+   "kind": "feed",
+   "format": "reel",
+   "date": "2026-11-02",
+   "time": "5:30 PM",
+   "label": "Reel · Listing prep order",
+   "review_file": "R04_preview.mp4",
+   "illustrative": true,
+   "ig_caption": "Listing in three weeks? The order matters: repairs and paint first, the haul-out next, cleaning last. Send us the list and your listing date and we'll coordinate it.\n\n(Example scenario for illustration, not a specific completed job.)\n\nLink in bio.\n\n#SellingYourHome #StLouis #StCharlesCounty #HomePrep #STLRealEstate",
+   "fb_caption": "Listing in three weeks? The order matters: repairs and paint first, the haul-out next, cleaning last. Send us the list and your listing date and we'll coordinate it.\n\n(Example scenario for illustration, not a specific completed job.)\n\nRequest service: https://handyhelperly.com/request-service?utm_source=facebook&utm_medium=social&utm_campaign=hh-batch2&utm_content=R04",
+   "tt_caption": "Listing soon? Repairs and paint, then haul-out, then cleaning. Order matters. (Example scenario, not a specific job.)\n\nhandyhelperly.com\n\n#SellingYourHome #StLouis #StCharlesCounty #fyp",
+   "yt_title": "Listing prep order | Handy Helperly",
+   "yt_description": "Listing in three weeks? The order matters: repairs and paint first, the haul-out next, cleaning last. Send us the list and your listing date and we'll coordinate it.\n\n(Example scenario for illustration, not a specific completed job.)\n\nhandyhelperly.com · (636) 459-1530",
+   "full_file": "R04.mp4",
+   "poster": "R04_poster.png"
+  },
+  {
+   "id": "R05",
+   "kind": "feed",
+   "format": "reel",
+   "date": "2026-11-04",
+   "time": "5:30 PM",
+   "label": "Reel · After the move",
+   "review_file": "R05_preview.mp4",
+   "illustrative": false,
+   "ig_caption": "Moved in? Now the punch list. We help after the move too: furniture assembly, mounting and hanging, box and debris removal, and minor repairs.\n\nLink in bio.\n\n#NewHome #JustMoved #StLouis #StCharlesCounty #HomeSetup",
+   "fb_caption": "Moved in? Now the punch list. We help after the move too: furniture assembly, mounting and hanging, box and debris removal, and minor repairs.\n\nRequest service: https://handyhelperly.com/request-service?utm_source=facebook&utm_medium=social&utm_campaign=hh-batch2&utm_content=R05",
+   "tt_caption": "Moved in? Assembly, mounting, hanging, box removal, and small repairs.\n\nhandyhelperly.com\n\n#NewHome #JustMoved #StLouis #fyp",
+   "yt_title": "After the move | Handy Helperly",
+   "yt_description": "Moved in? Now the punch list. We help after the move too: furniture assembly, mounting and hanging, box and debris removal, and minor repairs.\n\nhandyhelperly.com · (636) 459-1530",
+   "full_file": "R05.mp4",
+   "poster": "R05_poster.png"
+  },
+  {
+   "id": "R06",
+   "kind": "feed",
+   "format": "reel",
+   "date": "2026-11-06",
+   "time": "5:30 PM",
+   "label": "Reel · Moving week checklist",
+   "review_file": "R06_preview.mp4",
+   "illustrative": false,
+   "ig_caption": "Moving week checklist. Save this one. Book movers and storage, pack non-essentials first, label boxes by room, pack an open-first box, schedule move-out cleaning, plan furniture assembly, and keep one number for questions.\n\nLink in bio.\n\n#MovingTips #MovingDay #StLouis #StCharlesCounty #MovingHelp",
+   "fb_caption": "Moving week checklist. Save this one. Book movers and storage, pack non-essentials first, label boxes by room, pack an open-first box, schedule move-out cleaning, plan furniture assembly, and keep one number for questions.\n\nRequest service: https://handyhelperly.com/request-service?utm_source=facebook&utm_medium=social&utm_campaign=hh-batch2&utm_content=R06",
+   "tt_caption": "Moving week checklist. Save it for later.\n\nhandyhelperly.com\n\n#MovingTips #MovingDay #StLouis #fyp",
+   "yt_title": "Moving week checklist | Handy Helperly",
+   "yt_description": "Moving week checklist. Save this one. Book movers and storage, pack non-essentials first, label boxes by room, pack an open-first box, schedule move-out cleaning, plan furniture assembly, and keep one number for questions.\n\nhandyhelperly.com · (636) 459-1530",
+   "full_file": "R06.mp4",
+   "poster": "R06_poster.png"
+  },
+  {
+   "id": "R07",
+   "kind": "feed",
+   "format": "reel",
+   "date": "2026-11-09",
+   "time": "5:30 PM",
+   "label": "Reel · Cleanout",
+   "review_file": "R07_preview.mp4",
+   "illustrative": false,
+   "ig_caption": "That basement, garage, or attic you've been avoiding? A cleanout goes like this: sort, donate, haul, clean. You don't need to be moving to book one.\n\nLink in bio.\n\n#JunkRemoval #Cleanout #StLouis #StCharlesCounty #Declutter",
+   "fb_caption": "That basement, garage, or attic you've been avoiding? A cleanout goes like this: sort, donate, haul, clean. You don't need to be moving to book one.\n\nRequest service: https://handyhelperly.com/request-service?utm_source=facebook&utm_medium=social&utm_campaign=hh-batch2&utm_content=R07",
+   "tt_caption": "Sort, donate, haul, clean. You don't need to be moving to book a cleanout.\n\nhandyhelperly.com\n\n#JunkRemoval #Cleanout #StLouis #fyp",
+   "yt_title": "Cleanout | Handy Helperly",
+   "yt_description": "That basement, garage, or attic you've been avoiding? A cleanout goes like this: sort, donate, haul, clean. You don't need to be moving to book one.\n\nhandyhelperly.com · (636) 459-1530",
+   "full_file": "R07.mp4",
+   "poster": "R07_poster.png"
+  },
+  {
+   "id": "R08",
+   "kind": "feed",
+   "format": "reel",
+   "date": "2026-11-11",
+   "time": "5:30 PM",
+   "label": "Reel · What to send us",
+   "review_file": "R08_preview.mp4",
+   "illustrative": false,
+   "ig_caption": "What should you send to get started? Four things: the address, a simple list of what needs to happen, your timeline or closing date, and a few photos if you have them. The request form takes about two minutes.\n\nLink in bio.\n\n#StLouis #StCharlesCounty #HomeServices #MovingHelp #HomeRepair",
+   "fb_caption": "What should you send to get started? Four things: the address, a simple list of what needs to happen, your timeline or closing date, and a few photos if you have them. The request form takes about two minutes.\n\nRequest service: https://handyhelperly.com/request-service?utm_source=facebook&utm_medium=social&utm_campaign=hh-batch2&utm_content=R08",
+   "tt_caption": "Four things to get started. The form takes about two minutes.\n\nhandyhelperly.com\n\n#StLouis #StCharlesCounty #HomeServices #fyp",
+   "yt_title": "What to send us | Handy Helperly",
+   "yt_description": "What should you send to get started? Four things: the address, a simple list of what needs to happen, your timeline or closing date, and a few photos if you have them. The request form takes about two minutes.\n\nhandyhelperly.com · (636) 459-1530",
+   "full_file": "R08.mp4",
+   "poster": "R08_poster.png"
+  },
+  {
+   "id": "R09",
+   "kind": "feed",
+   "format": "reel",
+   "date": "2026-11-13",
+   "time": "5:30 PM",
+   "label": "Reel · Who we help",
+   "review_file": "R09_preview.mp4",
+   "illustrative": false,
+   "ig_caption": "Who we help: homeowners getting ready to sell, moving between homes, settling into a new place, or tackling one project. And Realtors who want one referral instead of chasing several vendors.\n\nLink in bio.\n\n#StLouis #StCharlesCounty #STLRealEstate #HomeServices #MovingHelp",
+   "fb_caption": "Who we help: homeowners getting ready to sell, moving between homes, settling into a new place, or tackling one project. And Realtors who want one referral instead of chasing several vendors.\n\nRequest service: https://handyhelperly.com/request-service?utm_source=facebook&utm_medium=social&utm_campaign=hh-batch2&utm_content=R09",
+   "tt_caption": "Homeowners and Realtors: who we help and when to call.\n\nhandyhelperly.com\n\n#StLouis #StCharlesCounty #STLRealEstate #fyp",
+   "yt_title": "Who we help | Handy Helperly",
+   "yt_description": "Who we help: homeowners getting ready to sell, moving between homes, settling into a new place, or tackling one project. And Realtors who want one referral instead of chasing several vendors.\n\nhandyhelperly.com · (636) 459-1530",
+   "full_file": "R09.mp4",
+   "poster": "R09_poster.png"
+  },
+  {
+   "id": "R10",
+   "kind": "feed",
+   "format": "reel",
+   "date": "2026-11-16",
+   "time": "5:30 PM",
+   "label": "Reel · One number",
+   "review_file": "R10_preview.mp4",
+   "illustrative": false,
+   "ig_caption": "Questions about a project? One number, one contact. Call (636) 459-1530, email contact@handyhelperly.com, or request service at handyhelperly.com.\n\nLink in bio.\n\n#StLouis #StCharlesCounty #HomeServices #Handyman #MovingHelp",
+   "fb_caption": "Questions about a project? One number, one contact. Call (636) 459-1530, email contact@handyhelperly.com, or request service at handyhelperly.com.\n\nRequest service: https://handyhelperly.com/request-service?utm_source=facebook&utm_medium=social&utm_campaign=hh-batch2&utm_content=R10",
+   "tt_caption": "Questions about a project? Call (636) 459-1530 or request service at handyhelperly.com.\n\nhandyhelperly.com\n\n#StLouis #StCharlesCounty #HomeServices #fyp",
+   "yt_title": "One number | Handy Helperly",
+   "yt_description": "Questions about a project? One number, one contact. Call (636) 459-1530, email contact@handyhelperly.com, or request service at handyhelperly.com.\n\nhandyhelperly.com · (636) 459-1530",
+   "full_file": "R10.mp4",
+   "poster": "R10_poster.png"
+  }
+ ]
+}
